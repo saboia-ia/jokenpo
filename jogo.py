@@ -34,3 +34,4 @@ if voce == 3:
     print("Você ganhou!")
 else:
     print("A máquina ganhou!")
+
